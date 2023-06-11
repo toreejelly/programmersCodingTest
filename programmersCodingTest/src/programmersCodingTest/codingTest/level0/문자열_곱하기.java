@@ -29,6 +29,7 @@ public class 문자열_곱하기 {
 			 
 			 * 결론 : 
 			 	1. StringBuilder 
+			 	..
 			 		
 				2. .append
 			 	
