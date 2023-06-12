@@ -32,6 +32,7 @@ public class 문자열_곱하기 {
 			 	..
 			 		
 				2. .append
+				..
 			 	
 			 */
 		
