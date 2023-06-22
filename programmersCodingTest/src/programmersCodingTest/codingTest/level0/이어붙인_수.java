@@ -7,7 +7,7 @@ public class 이어붙인_수 {
 	public static void main(String[] args) {
 			/*
 			 
-			 * 문제실행 : 
+			 * 문제실행 : .
 			 				
 			 * 입출력 :  
 			 
