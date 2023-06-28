@@ -32,7 +32,7 @@ public class 문자열돌리기 {
 	        
 	        for(int i=0; i<str.length(); i++){
 	            System.out.println(str.charAt(i));
-	        }//for end
+	        }//for end.
 		
 	        
 	    }
